@@ -11,7 +11,7 @@
     },
     "API_ID": {
       "description": "Your API_ID from https://my.telegram.org/apps ",
-      "value": ""
+      "value": "vetri"
     },
     "API_HASH": {
       "description": "Your API_HASH from https://my.telegram.org/apps",
